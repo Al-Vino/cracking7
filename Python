@@ -1,0 +1,12 @@
+cd
+$ pkg update && pkg upgrade
+$ pkg install python git
+$ pkg install play-audio
+$ pip install requests mechanize
+$ pip install rich bs4
+$ pip install stdiomask
+$ pip install --upgrade pip
+$ git clone https://github.com/Al-Vino/cracking7
+$ ls ( L kecil )
+$ cd cracking7
+$ python sister.py
